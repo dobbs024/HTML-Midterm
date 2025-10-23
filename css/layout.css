@@ -1,0 +1,35 @@
+.bottom {
+    clear: both;
+    text-align: center;
+}
+
+.left {
+    width: 15%;
+    float: left;
+    line-height: 20px;
+}
+.main {
+    width: 85%;
+    float: right;
+}
+.float-left {
+    clear: both;
+    float: left;
+    margin: 0 15px 10px 0;
+}
+
+.float-right {
+    clear: both;
+    float: right;
+    margin: 0 15px 10x 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.agent {
+    clear: left;
+}
+
+.agent2 {
+    clear: right;
+}
